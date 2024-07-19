@@ -1,0 +1,16 @@
+2024/07/19 06:47:41 [4275] building file list
+2024/07/19 06:47:41 [4275] .d..t...... ./
+2024/07/19 06:47:41 [4275] >f+++++++++ file1.txt
+2024/07/19 06:47:41 [4275] >f+++++++++ file2.txt
+2024/07/19 06:47:41 [4275] >f+++++++++ file3.txt
+2024/07/19 06:47:41 [4275] >f+++++++++ file4.txt
+2024/07/19 06:47:41 [4275] >f+++++++++ file5.txt
+2024/07/19 06:47:41 [4275] sent 611 bytes  received 114 bytes  1,450.00 bytes/sec
+2024/07/19 06:47:41 [4275] total size is 213  speedup is 0.29
+Backup of directory1/ to directory2 is compeleted on Fri Jul 19 06:47:41 AM UTC 2024
+2024/07/19 10:39:14 [5026] building file list
+2024/07/19 10:39:14 [5026] .d..t...... ./
+2024/07/19 10:39:14 [5026] >f.st...... file3.txt
+2024/07/19 10:39:14 [5026] sent 490 bytes  received 38 bytes  1,056.00 bytes/sec
+2024/07/19 10:39:14 [5026] total size is 427  speedup is 0.81
+Backup of directory1/ to directory2 is compeleted on Fri Jul 19 10:39:14 AM UTC 2024

@@ -1,0 +1,3 @@
+Text in file no 3
+This is first line in file3
+Windows and macOS are widely recognized as popular operating systems today. Nevertheless, Linux has been steadily growing in popularity, gaining traction not only among developers but also among average consumers.

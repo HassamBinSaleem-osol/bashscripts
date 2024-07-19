@@ -1,0 +1,2 @@
+Text in file no 4
+first line in file 4
